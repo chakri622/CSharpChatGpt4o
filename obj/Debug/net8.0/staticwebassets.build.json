@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PCix7ddly6RibU8d9tUb0Qox80C3Tj7k5BrTobHl4gQ=",
+  "Source": "OpenAiApp",
+  "BasePath": "_content/OpenAiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
