@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0572ce4ce27185d55647c3468d96bc9561bb7ca7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
